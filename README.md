@@ -2,6 +2,7 @@
 
 ...for fun.
 
+![Running in PS](screenshots/windows.png)
 
 ## Running
 
