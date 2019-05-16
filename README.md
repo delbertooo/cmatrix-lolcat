@@ -6,7 +6,7 @@
 ## Running
 
 ```
-docker run --rm -t cmatrix-lolcat
+docker run --rm -it cmatrix-lolcat
 ```
 
 
