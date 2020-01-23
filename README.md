@@ -7,12 +7,12 @@
 ## Running
 
 ```
-docker run --rm -it cmatrix-lolcat
+docker run --rm -it delbertooo/cmatrix-lolcat
 ```
 
 
 ## Building
 
 ```
-docker build -t cmatrix-lolcat .
+docker build -t delbertooo/cmatrix-lolcat .
 ```
